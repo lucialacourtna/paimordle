@@ -168,7 +168,7 @@ export const VALID_GUESSES = [
 'roast',
 'rocks',
 'rogue',
-'rolls'
+'rolls',
 'royal',
 'ruins',
 'salad',
