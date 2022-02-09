@@ -17,6 +17,13 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
         >
           check out the code here
         </a>{' '}
+        Modified by -{' '}
+        <a
+          href="https:://twitter.com/CYBERCH1CK"
+          className="underline font-bold"
+        >
+          CYBERCH1CK
+        </a>{' '}
       </p>
     </BaseModal>
   )
