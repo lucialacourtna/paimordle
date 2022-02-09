@@ -213,7 +213,7 @@ export const VALID_GUESSES = [
 'ulman',
 'varka',
 'venti',
-'wages'
+'wages',
 'waltz',
 'water',
 'weiss',
