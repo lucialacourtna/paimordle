@@ -2,7 +2,6 @@ export const VALID_GUESSES = [
 'abode',
 'abyss',
 'agate',
-'agate',
 'agent',
 'alice',
 'amber',
