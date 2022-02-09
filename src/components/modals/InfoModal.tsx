@@ -15,36 +15,36 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
 
       <div className="flex justify-center mb-1 mt-4">
-        <Cell value="W" status="correct" />
-        <Cell value="E" />
-        <Cell value="A" />
-        <Cell value="R" />
-        <Cell value="Y" />
-      </div>
-      <p className="text-sm text-gray-500 dark:text-gray-300">
-        The letter W is in the word and in the correct spot.
-      </p>
-
-      <div className="flex justify-center mb-1 mt-4">
-        <Cell value="P" />
+        <Cell value="L" status="correct" />
         <Cell value="I" />
-        <Cell value="L" status="present" />
-        <Cell value="O" />
-        <Cell value="T" />
-      </div>
-      <p className="text-sm text-gray-500 dark:text-gray-300">
-        The letter L is in the word but in the wrong spot.
-      </p>
-
-      <div className="flex justify-center mb-1 mt-4">
-        <Cell value="V" />
-        <Cell value="A" />
-        <Cell value="G" />
-        <Cell value="U" status="absent" />
+        <Cell value="Y" />
+        <Cell value="U" />
         <Cell value="E" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        The letter U is not in the word in any spot.
+        The letter L is in the word and in the correct spot.
+      </p>
+
+      <div className="flex justify-center mb-1 mt-4">
+        <Cell value="M" />
+        <Cell value="O" />
+        <Cell value="R" status="present" />
+        <Cell value="A" />
+        <Cell value="X" />
+      </div>
+      <p className="text-sm text-gray-500 dark:text-gray-300">
+        The letter R is in the word but in the wrong spot.
+      </p>
+
+      <div className="flex justify-center mb-1 mt-4">
+        <Cell value="R" />
+        <Cell value="O" />
+        <Cell value="C" />
+        <Cell value="K" status="absent" />
+        <Cell value="S" />
+      </div>
+      <p className="text-sm text-gray-500 dark:text-gray-300">
+        The letter K is not in the word in any spot.
       </p>
     </BaseModal>
   )
