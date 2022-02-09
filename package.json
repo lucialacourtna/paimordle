@@ -23,7 +23,7 @@
   "scripts": {
     "build": "react-scripts build",
     "eject": "react-scripts eject",
-    "fix": "prettier --write src",
+    "fix": "prettier --fix src",
     "lint": "prettier --check src",
     "start": "react-scripts start",
     "test": "react-scripts test",
