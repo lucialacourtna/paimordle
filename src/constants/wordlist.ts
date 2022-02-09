@@ -141,5 +141,5 @@ export const WORDS = [
 'winds',
 'wings',
 'witch',
-'world',
+'world'
  ]
