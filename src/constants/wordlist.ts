@@ -79,7 +79,6 @@ export const WORDS = [
 'lotus',
 'lunar',
 'lupus',
-'lyney',
 'lyres',
 'maguu',
 'maids',
