@@ -205,6 +205,7 @@ export const VALID_GUESSES = [
   'sword',
   'teeth',
   'tengu',
+  'thoma',
   'tides',
   'timed',
   'toast',
