@@ -176,8 +176,6 @@ export const VALID_GUESSES = [
   'sango',
   'scale',
   'scara',
-  'screen',
-  'scroll',
   'senho',
   'seven',
   'shard',
