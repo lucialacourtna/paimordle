@@ -99,6 +99,7 @@ export const VALID_GUESSES = [
   'guide',
   'guild',
   'guili',
+  'guuji',
   'guoba',
   'guyun',
   'gygax',
