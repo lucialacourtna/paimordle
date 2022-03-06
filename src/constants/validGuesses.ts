@@ -190,6 +190,7 @@ export const VALID_GUESSES = [
   'slime',
   'solar',
   'songs',
+  'soups',
   'spark',
   'spear',
   'speed',
