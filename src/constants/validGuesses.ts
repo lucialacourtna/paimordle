@@ -215,6 +215,7 @@ export const VALID_GUESSES = [
   'timed',
   'toast',
   'tooth',
+  'topaz',
   'tubby',
   'ulman',
   'varka',
