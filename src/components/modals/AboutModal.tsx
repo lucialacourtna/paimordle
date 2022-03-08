@@ -24,6 +24,13 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
         >
           CYBERCH1CK
         </a>{' '}
+        Find updates on the latest with -{' '}
+        <a
+          href="https://twitter.com/paimordle"
+          className="underline font-bold"
+          >
+          Paimordle
+        </a>{' '}
       </p>
     </BaseModal>
   )
