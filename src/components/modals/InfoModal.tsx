@@ -57,14 +57,14 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         >
           check out the code here
         </a>{' '}
-        Modified by{' '}
+        \nModified by{' '}
         <a
           href="https://twitter.com/CYBERCH1CK"
           className="underline font-bold"
         >
           CYBERCH1CK
         </a>{' '}
-        Find updates on the latest with{' '}
+        \nFind updates on the latest with{' '}
         <a href="https://twitter.com/paimordle" className="underline font-bold">
           Paimordle
         </a>{' '}
