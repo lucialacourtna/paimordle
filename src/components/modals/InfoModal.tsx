@@ -57,8 +57,8 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         >
           check out the code here
         </a>{' '}
-       </p>
-       <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
+      </p>
+      <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
         Modified by{' '}
         <a
           href="https://twitter.com/CYBERCH1CK"
@@ -66,18 +66,21 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         >
           CYBERCH1CK
         </a>{' '}
-        </p>
-        <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
+      </p>
+      <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
         Find updates on the latest with{' '}
         <a href="https://twitter.com/paimordle" className="underline font-bold">
           Paimordle
         </a>{' '}
       </p>
-        <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
-          Play the new {' '}
-         <a href="https://paimordle-vi.vercel.app/" className="underline font-bold">
-           Paimordle VI!
-          </a>{' '}
+      <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
+        Play the new{' '}
+        <a
+          href="https://paimordle-vi.vercel.app/"
+          className="underline font-bold"
+        >
+          Paimordle VI!
+        </a>{' '}
       </p>
     </BaseModal>
   )
