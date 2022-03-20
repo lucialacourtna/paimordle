@@ -9,6 +9,7 @@ export const VALID_GUESSES = [
   'anemo',
   'angel',
   'apple',
+'array',
   'athos',
   'ayaka',
   'ayato',
