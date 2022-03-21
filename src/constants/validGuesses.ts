@@ -100,6 +100,7 @@ export const VALID_GUESSES = [
   'fuuin',
   'gacha',
   'gales',
+  'games',
   'ganyu',
   'glaze',
   'glide',
