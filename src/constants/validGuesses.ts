@@ -87,6 +87,7 @@ export const VALID_GUESSES = [
   'exile',
   'faith',
   'fatal',
+  'fates',
   'fatui',
   'field',
   'fiery',
