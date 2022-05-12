@@ -170,6 +170,7 @@ export const WORDS = [
   'gorou',
   'fight',
   'boars',
+  'yelan',
   'anemo',
   'raven',
   'pearl',
