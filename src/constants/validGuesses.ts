@@ -249,5 +249,6 @@ export const VALID_GUESSES = [
   'witch',
   'world',
   'yakan',
+  'yelan',
   'zhang',
 ]
