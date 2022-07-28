@@ -73,7 +73,7 @@ export const WORDS = [
   'shock',
   'amber',
   'hydro',
-'power',
+  'power',
   'guide',
   'wings',
   'karst',
