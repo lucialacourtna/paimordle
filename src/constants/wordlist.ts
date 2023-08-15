@@ -145,5 +145,6 @@ export const WORDS = [
   'dehya',
   'kaveh',
   'layla',
-  'nilou'
+  'nilou',
+  'navia'
 ]
