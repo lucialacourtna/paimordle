@@ -142,4 +142,8 @@ export const WORDS = [
   'rhine',
   'ruins',
   'glide',
+  'dehya',
+  'kaveh',
+  'layla',
+  'nilou'
 ]
