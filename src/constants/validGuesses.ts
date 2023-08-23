@@ -11,6 +11,7 @@ export const VALID_GUESSES = [
   'angel',
   'apple',
   'array',
+  'arrow',
   'athos',
   'ayaka',
   'ayato',
